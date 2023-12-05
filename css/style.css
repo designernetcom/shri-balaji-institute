@@ -7207,3 +7207,28 @@ padding: 30px !important;
         
 
 }
+.img-form {
+    /* position: relative; */
+  }
+  
+  .img-form .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgba(0, 0, 0, 0.644);
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .img-form:hover .tooltiptext {
+    visibility: visible;
+  }
+  @media screen and (max-width: 768px){
+    .img-form img {
+        width: 50px;
+      }
+  }
