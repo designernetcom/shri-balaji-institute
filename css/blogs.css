@@ -1,0 +1,25 @@
+.blogs-text h5 {
+  font-size: 25px;
+  color: #2b2a2a;
+}
+
+.blogs-text P {
+  font-size: 16px;
+  color: #7a7a7a;
+    line-height: 30px;
+}
+
+.recent-post {
+  padding: 50px 0px;
+}
+.recent-post h2 {
+  padding: 10px 0px;
+}
+.recent-post h4 {
+  color: #cb1515;
+  font-weight: 600;
+}
+
+.recent-post .read-more-custom {
+  color: #61ce70;
+}
