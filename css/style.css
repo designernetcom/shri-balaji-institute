@@ -7072,7 +7072,7 @@ a.view-course {
 
 .course-page .course-box {
     padding: 25px 15px;
-    margin: 20px 10px;  
+    margin: 10px 10px;
 }
 .contact-form.form-style-2 {
     padding: 0;
@@ -7175,14 +7175,14 @@ a.view-course {
     width: 50px;
 }
 .course-s {
-    height: 140px;
+    height: 150px;
 }
 .categorie-style-1 {
     height: 160px;
 }
 @media screen and (max-width: 400px){
 .course-s {
-    height: 120px;
+    height: auto;
 }
 }
 
